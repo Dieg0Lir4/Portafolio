@@ -9,8 +9,12 @@
 - Diseñé y creé el sitio web de TJMUN XIII.
 - Mantuvé el registro de participantes.
 
-### Proyecto 1: Nombre del proyecto
-- **Descripción**: Descripción [listar tecnologías utilizadas].
-- **Logros**: Destacar logros específicos, mejoras implementadas, impacto en el negocio, etc.
+## Pases de las antorchas
+- **Periodo**: Agosto 9 2023
+- **Descripción**: Una carrera de relevos simbolica por el estado de Querétaro para dar el incio de la temporada
+- **Logros y enseñansas**: El equipo del tec termino en tercer lugar, apredendí la importancia de la disiplina y el trabajo constante
 
+## Playbill
+- **Descripción**: Playbill es un concierto de musicales
+- **Logros**: Cante en el museo reginonal de arte de Querétaro (MAQRO),que forma parte de la zona de monumentos históricos de Querétaro, inscrito en la lista de patrimonio mundial de la UNESCO. Aprendí sobre la importancia del trabajo en equipo y la importancia de la cordinaicon en un mismo proyecto.
 
