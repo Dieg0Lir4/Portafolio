@@ -21,4 +21,3 @@
 - **Lenguajes**: python
 - **Librerías**: pandas y anaconda
 - **Visualización**: Anaconda Navigator
-
